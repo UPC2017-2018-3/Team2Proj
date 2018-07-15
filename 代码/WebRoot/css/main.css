@@ -1,0 +1,312 @@
+.error_info {
+	BORDER-BOTTOM: #6a7ca5 1px solid; BORDER-LEFT: #6a7ca5 5px solid; BACKGROUND-COLOR: #f5f5f5; BORDER-TOP: #6a7ca5 1px solid; BORDER-RIGHT: #6a7ca5 5px solid
+}
+.error_top {
+	BORDER-BOTTOM: #6a7ca5 3px dashed; COLOR: #6a7ca5; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.top_b1 {
+	BORDER-BOTTOM: #6a7ca5 2px dashed; BORDER-LEFT: #6a7ca5 1px solid; BACKGROUND-COLOR: #ffffff; BORDER-TOP: #6a7ca5 2px dashed; BORDER-RIGHT: #6a7ca5 1px solid
+}
+.top_b2 {
+	BORDER-BOTTOM: #6a7ca5 2px dashed; BORDER-LEFT: #6a7ca5 1px solid; BACKGROUND-COLOR: #ddebeb; BORDER-TOP: #6a7ca5 2px dashed; BORDER-RIGHT: #6a7ca5 1px solid
+}
+.top_b3 {
+	BORDER-BOTTOM: #6a7ca5 2px dashed; BORDER-LEFT: #6a7ca5 1px solid; BACKGROUND-COLOR: #ffffff; COLOR: #ccc; BORDER-TOP: #6a7ca5 2px dashed; BORDER-RIGHT: #6a7ca5 1px solid
+}
+.but_t {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.but_t:link {
+	COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.but_t:visited {
+	COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.but_t:hover {
+	COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+INPUT.readonly_1 {
+	BORDER-BOTTOM: #b0b0b0 1px solid; TEXT-ALIGN: center; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: transparent; WIDTH: 150px; FONT-FAMILY: SimSun; BORDER-TOP-STYLE: none; FONT-SIZE: 9pt; VERTICAL-ALIGN: bottom; BORDER-LEFT-STYLE: none
+}
+INPUT.readonly_new {
+	BORDER-BOTTOM: #b0b0b0 1px; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: transparent; WIDTH: 150px; FONT-FAMILY: SimSun; BORDER-TOP-STYLE: none; FONT-SIZE: 9pt; VERTICAL-ALIGN: bottom; BORDER-LEFT-STYLE: none
+}
+BODY {
+	BACKGROUND-COLOR: #f5f5f5; MARGIN: 10px
+}
+BODY.topframe {
+	MARGIN: 0px
+}
+BODY.leftframe {
+	MARGIN: 0px
+}
+BODY.dialog {
+	MARGIN: 10px 0px 5px 5px
+}
+TABLE.dropShadow {
+	BORDER-BOTTOM: #d4d4de 1px solid; FILTER: progid:DXImageTransform.Microsoft.DropShadow(color='#EEEEEE',offx=2,offy=2,positive='true'); BORDER-LEFT: #d4d4de 1px solid; BACKGROUND-COLOR: white; BORDER-TOP: #d4d4de 1px solid; BORDER-RIGHT: #d4d4de 1px solid
+}
+TABLE.borderFull {
+	BORDER-BOTTOM: #d4d4de 1px solid; BORDER-LEFT: #d4d4de 1px solid; BACKGROUND-COLOR: white; BORDER-TOP: #d4d4de 1px solid; BORDER-RIGHT: #d4d4de 1px solid
+}
+TR.hilite {
+	BACKGROUND: #ddebeb
+}
+TD {
+	TEXT-INDENT: 4px; FONT-FAMILY: simsun; COLOR: #222222; FONT-SIZE: 9pt
+}
+TD.underLine {
+	BORDER-BOTTOM: #ddebeb 1px solid; PADDING-TOP: 3px
+}
+TD.textunderline {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #f5f5f5 0px solid; BACKGROUND-COLOR: #f5f5f5; WIDTH: 200px; COLOR: #333333; BORDER-TOP: #f5f5f5 0px solid; BORDER-RIGHT: #f5f5f5 0px solid
+}
+TD.underLineCurr {
+	BORDER-BOTTOM: #ddebeb 1px solid; TEXT-ALIGN: right; PADDING-TOP: 3px
+}
+TD.underLineCurr2 {
+	BORDER-BOTTOM: #ddebeb 1px solid; TEXT-ALIGN: right; PADDING-TOP: 3px
+}
+TD.afterOption {
+	PADDING-LEFT: 6px; PADDING-TOP: 3px
+}
+TD.afterOptionNUnderLine {
+	BORDER-BOTTOM: #ddebeb 1px solid; PADDING-LEFT: 6px; PADDING-TOP: 3px
+}
+TD.intro_Left {
+	BORDER-BOTTOM: #ddebeb 1px solid; TEXT-ALIGN: right; BACKGROUND-COLOR: #e8e8e8; PADDING-RIGHT: 6px; WORD-BREAK: keep-all
+}
+TD.intro_Right {
+	BORDER-BOTTOM: #ddebeb 1px solid; TEXT-ALIGN: left; PADDING-LEFT: 4px; WORD-BREAK: keep-all
+}
+TD.panel_tHead_LB {
+	BACKGROUND-IMAGE: url(../images/panel_LeftTop.gif); TEXT-INDENT: 0px; WIDTH: 6px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: right bottom; HEIGHT: 25px
+}
+TD.panel_tHead_MB {
+	BACKGROUND-IMAGE: url(../images/panel_MiddleTop.gif); BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: simsun; HEIGHT: 25px; COLOR: #333333; FONT-SIZE: 9pt; VERTICAL-ALIGN: middle
+}
+TD.panel_tHead_MB_2 {
+	BACKGROUND-IMAGE: url(../images/panel_MiddleTop.gif); BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: simsun; HEIGHT: 25px; COLOR: #333333; FONT-SIZE: 9pt; VERTICAL-ALIGN: middle; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+TD.panel_tHead_MB_Curr {
+	BACKGROUND-IMAGE: url(../images/panel_MiddleTop.gif); TEXT-ALIGN: right; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: simsun; HEIGHT: 25px; COLOR: #333333; FONT-SIZE: 9pt; VERTICAL-ALIGN: middle
+}
+TD.panel_tHead_MB_Curr2 {
+	BACKGROUND-IMAGE: url(../images/panel_MiddleTop.gif); TEXT-ALIGN: right; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: simsun; HEIGHT: 25px; COLOR: #333333; FONT-SIZE: 9pt; VERTICAL-ALIGN: middle
+}
+TD.panel_tHead_Title {
+	BORDER-BOTTOM: #ddebeb 1px solid; BACKGROUND-COLOR: #e8e8e8; HEIGHT: 25px; VERTICAL-ALIGN: middle; BORDER-TOP: #ddebeb 1px solid; PADDING-TOP: 3px
+}
+TD.panel_tHead_RB {
+	BACKGROUND-IMAGE: url(../images/panel_RightTop.gif); TEXT-INDENT: 0px; WIDTH: 6px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left bottom; HEIGHT: 25px
+}
+TD.panel_tBody_LB {
+	BACKGROUND-IMAGE: url(../images/panel_LeftBorder.gif); TEXT-INDENT: 0px; WIDTH: 6px; BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: right 24px
+}
+TD.panel_tBody_RB {
+	BACKGROUND-IMAGE: url(../images/panel_RightBorder.gif); TEXT-INDENT: 0px; WIDTH: 6px; BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: left center
+}
+TD.panel_tFoot_LB {
+	BACKGROUND-IMAGE: url(../images/panel_LeftBottom.gif); TEXT-INDENT: 0px; WIDTH: 6px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: right top; HEIGHT: 6px
+}
+TD.panel_tFoot_MB {
+	BACKGROUND-IMAGE: url(../images/panel_MiddleBottom.gif); TEXT-INDENT: 0px; BACKGROUND-REPEAT: repeat-x; HEIGHT: 6px
+}
+TD.panel_tFoot_RB {
+	BACKGROUND-IMAGE: url(../images/panel_RightBottom.gif); TEXT-INDENT: 0px; WIDTH: 6px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; HEIGHT: 6px
+}
+TD.pager {
+	BORDER-BOTTOM: #ddebeb 1px solid; BORDER-LEFT: #ddebeb 1px solid; BACKGROUND-COLOR: #e8e8e8; HEIGHT: 22px; BORDER-TOP: #ddebeb 1px solid; BORDER-RIGHT: #ddebeb 1px solid
+}
+TD.director {
+	TEXT-ALIGN: right; FONT-FAMILY: "Webdings"; COLOR: #666666; FONT-SIZE: 9pt; VERTICAL-ALIGN: bottom; CURSOR: hand
+}
+TD.beforeInput {
+	TEXT-ALIGN: right; PADDING-RIGHT: 6px; WORD-BREAK: keep-all
+}
+TD.input {
+	TEXT-ALIGN: left
+}
+TD.inputNunderline {
+	BORDER-BOTTOM: #ddebeb 1px solid; TEXT-ALIGN: left
+}
+TD.reportTitle {
+	TEXT-ALIGN: center; FONT-FAMILY: "Á¥Êé"; FONT-SIZE: 24px; FONT-WEIGHT: bold
+}
+TD.print {
+	FONT-FAMILY: simsun; COLOR: #222222; FONT-SIZE: 11pt
+}
+FIELDSET {
+	BORDER-BOTTOM: #bfbfbf 3px double; BORDER-LEFT: #bfbfbf 3px double; PADDING-BOTTOM: 5px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; FONT-FAMILY: simsun; COLOR: #333333; FONT-SIZE: 9pt; BORDER-TOP: #bfbfbf 3px double; BORDER-RIGHT: #bfbfbf 3px double; PADDING-TOP: 5px
+}
+LEGEND {
+	COLOR: #333333; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+DIV.div_drwPanel {
+	BACKGROUND-IMAGE: url(/qyjxc/img/drawer_Panel.gif); FILTER: Alpha(opacity=100); WIDTH: 133px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: center bottom; HEIGHT: 26px; OVERFLOW: hidden
+}
+DIV.div_drwContent {
+	OVERFLOW-X: hidden; WIDTH: 133px; HEIGHT: 200px
+}
+DIV.div_tree {
+	SCROLLBAR-ARROW-COLOR: #000000; BORDER-BOTTOM: #95b9de 1px solid; BORDER-LEFT: #95b9de 1px solid; SCROLLBAR-FACE-COLOR: #95b9de; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; WIDTH: 130px; PADDING-RIGHT: 4px; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; HEIGHT: 50px; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #95b9de; OVERFLOW: hidden; BORDER-TOP: #95b9de 1px solid; BORDER-RIGHT: #95b9de 1px solid; SCROLLBAR-3DLIGHT-COLOR: #95b9de; PADDING-TOP: 4px
+}
+SPAN.drwPanel {
+	FILTER: dropshadow(color='#EEEEEE',offx=1,offy=1); WIDTH: 100%; HEIGHT: 100%; COLOR: #000000; FONT-SIZE: 10pt; CURSOR: hand; PADDING-TOP: 7px
+}
+SPAN.drwItem {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 4px; WIDTH: 130px; FONT-FAMILY: simsun; HEIGHT: 50px; COLOR: #000000; FONT-SIZE: 9pt; CURSOR: hand; PADDING-TOP: 6px
+}
+SPAN.smlbtn {
+	FILTER: dropshadow(color='#FFFFFF',offx=1,offy=1); WIDTH: 50px; HEIGHT: 18px; COLOR: #333333; FONT-SIZE: 9pt; PADDING-TOP: 1px
+}
+SPAN.mdlbtn {
+	FILTER: dropshadow(color='#FFFFFF',offx=1,offy=1); WIDTH: 70px; HEIGHT: 18px; COLOR: #333333; FONT-SIZE: 9pt; PADDING-TOP: 1px
+}
+SPAN.lgrbtn {
+	FILTER: dropshadow(color='#FFFFFF',offx=1,offy=1); WIDTH: 95px; HEIGHT: 18px; COLOR: #333333; FONT-SIZE: 9pt; PADDING-TOP: 1px
+}
+SPAN.readonly {
+	BORDER-BOTTOM: #b0b0b0 1px solid; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: transparent; WIDTH: 150px; FONT-FAMILY: SimSun; BORDER-TOP-STYLE: none; COLOR: #b0b0b0; FONT-SIZE: 9pt; VERTICAL-ALIGN: bottom; BORDER-LEFT-STYLE: none
+}
+SPAN.span_table_title {
+	TEXT-ALIGN: left; FILTER: progid:DXImageTransform.Microsoft.DropShadow(color='white',offx=1,offy=1,positive='true'); PADDING-BOTTOM: 2px; OVERFLOW-X: visible; OVERFLOW-Y: hidden; PADDING-LEFT: 10px; FONT-FAMILY: simsun; HEIGHT: 20px; COLOR: #333333; FONT-SIZE: 10pt; VERTICAL-ALIGN: bottom; FONT-WEIGHT: bold
+}
+INPUT.page {
+	BORDER-BOTTOM: #333333 1px solid; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: transparent; FONT-FAMILY: Verdana; BORDER-TOP-STYLE: none; FONT-SIZE: 8pt; BORDER-LEFT-STYLE: none
+}
+INPUT.text {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #999999 1px solid; WIDTH: 150px; FONT-FAMILY: SimSun; FONT-SIZE: 9pt; BORDER-TOP: #999999 1px solid; BORDER-RIGHT: #999999 1px solid
+}
+INPUT.normal {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #999999 1px solid; WIDTH: 150px; FONT-FAMILY: SimSun; FONT-SIZE: 9pt; BORDER-TOP: #999999 1px solid; BORDER-RIGHT: #999999 1px solid
+}
+INPUT.readonly {
+	BORDER-BOTTOM: #b0b0b0 1px solid; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: transparent; WIDTH: 150px; FONT-FAMILY: SimSun; BORDER-TOP-STYLE: none; COLOR: #b0b0b0; FONT-SIZE: 9pt; VERTICAL-ALIGN: bottom; BORDER-LEFT-STYLE: none
+}
+INPUT.date {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: transparent; WIDTH: 150px; FONT-FAMILY: Arial; BORDER-TOP-STYLE: none; COLOR: #333333; FONT-SIZE: 9pt; VERTICAL-ALIGN: bottom; BORDER-LEFT-STYLE: none; FONT-WEIGHT: bold
+}
+INPUT.radiobox {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND-COLOR: transparent; WIDTH: 1px; FONT-FAMILY: SimSun; COLOR: #333333; FONT-SIZE: 9pt; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+INPUT.checkbox {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND-COLOR: transparent; FONT-FAMILY: SimSun; COLOR: #333333; FONT-SIZE: 9pt; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+SELECT.normal {
+	BACKGROUND-COLOR: transparent; WIDTH: 150px; FONT-FAMILY: SimSun; FONT-SIZE: 9pt
+}
+TEXTAREA.normal {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #999999 1px solid; WIDTH: 150px; FONT-FAMILY: SimSun; COLOR: #333333; FONT-SIZE: 9pt; BORDER-TOP: #999999 1px solid; BORDER-RIGHT: #999999 1px solid
+}
+TEXTAREA.large {
+	BORDER-BOTTOM: #999999 1px solid; BORDER-LEFT: #999999 1px solid; WIDTH: 400px; FONT-FAMILY: SimSun; COLOR: #333333; FONT-SIZE: 9pt; BORDER-TOP: #999999 1px solid; BORDER-RIGHT: #999999 1px solid
+}
+TEXTAREA.readonly {
+	BORDER-BOTTOM: #b0b0b0 1px solid; BORDER-LEFT: #b0b0b0 1px solid; BACKGROUND-COLOR: transparent; WIDTH: 150px; FONT-FAMILY: SimSun; COLOR: #b0b0b0; FONT-SIZE: 9pt; BORDER-TOP: #b0b0b0 1px solid; BORDER-RIGHT: #b0b0b0 1px solid
+}
+SELECT.normal {
+	BACKGROUND-COLOR: transparent; WIDTH: 152px; FONT-FAMILY: SimSun; FONT-SIZE: 9pt
+}
+BUTTON.smlbtn {
+	BACKGROUND-IMAGE: url(../images/btn_sml.gif); BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent; WIDTH: 55px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: simsun; HEIGHT: 20px; COLOR: #333333; FONT-SIZE: 9pt; OVERFLOW: hidden; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none; PADDING-TOP: 3px
+}
+BUTTON.mdlbtn {
+	BACKGROUND-IMAGE: url(../images/btn_mdl.gif); BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent; WIDTH: 75px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: simsun; HEIGHT: 20px; COLOR: #333333; FONT-SIZE: 9pt; OVERFLOW: hidden; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none; PADDING-TOP: 3px
+}
+BUTTON.lgrbtn {
+	BACKGROUND-IMAGE: url(../images/btn_lgr.gif); BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent; WIDTH: 100px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: simsun; HEIGHT: 20px; COLOR: #333333; FONT-SIZE: 9pt; OVERFLOW: hidden; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none; PADDING-TOP: 3px
+}
+BUTTON.smlbtn_readonly {
+	BACKGROUND-IMAGE: url(../images/btn_sml.gif); BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent; WIDTH: 55px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: simsun; HEIGHT: 20px; COLOR: #b0b0b0; FONT-SIZE: 9pt; OVERFLOW: hidden; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none; PADDING-TOP: 3px
+}
+BUTTON.mdlbtn_readonly {
+	BACKGROUND-IMAGE: url(../images/btn_mdl.gif); BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent; WIDTH: 75px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: simsun; HEIGHT: 20px; COLOR: #b0b0b0; FONT-SIZE: 9pt; OVERFLOW: hidden; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none; PADDING-TOP: 3px
+}
+BUTTON.lgrbtn_readonly {
+	BACKGROUND-IMAGE: url(../images/btn_lgr.gif); BORDER-BOTTOM: medium none; TEXT-ALIGN: center; BORDER-LEFT: medium none; BACKGROUND-COLOR: transparent; WIDTH: 100px; BACKGROUND-REPEAT: no-repeat; FONT-FAMILY: simsun; HEIGHT: 20px; COLOR: #b0b0b0; FONT-SIZE: 9pt; OVERFLOW: hidden; BORDER-TOP: medium none; CURSOR: hand; BORDER-RIGHT: medium none; PADDING-TOP: 3px
+}
+.p9 {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: simsun; COLOR: #333333; FONT-SIZE: 9pt; PADDING-TOP: 3px
+}
+.p9_bold {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: simsun; COLOR: #333333; FONT-SIZE: 9pt; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.p9_print {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: "ºÚÌå"; COLOR: #333333; FONT-SIZE: 9pt; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.p10 {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: simsun; COLOR: #333333; FONT-SIZE: 10pt; PADDING-TOP: 3px
+}
+.p10_bold {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: simsun; COLOR: #333333; FONT-SIZE: 10pt; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.p11 {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: simsun; COLOR: #333333; FONT-SIZE: 11pt; PADDING-TOP: 3px
+}
+.p11_bold {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: "ºÚÌå"; COLOR: #333333; FONT-SIZE: 11pt; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.labelCtrl_styleNormal {
+	BACKGROUND-IMAGE: url(../images/label_normal.gif); FONT-FAMILY: simsun; COLOR: black; FONT-SIZE: 9pt; CURSOR: hand
+}
+.labelCtrl_styleActive {
+	BACKGROUND-IMAGE: url(../images/label_active.gif); FONT-FAMILY: simsun; COLOR: #333333; FONT-SIZE: 9pt; CURSOR: hand
+}
+.labelCtrl_styleMarging {
+	BACKGROUND-IMAGE: url(../images/label_marging.gif); TEXT-INDENT: 0px; FONT-FAMILY: simsun; COLOR: white; FONT-SIZE: 9pt; CURSOR: hand
+}
+.labelCtrl_styleBodyLeft {
+	BORDER-LEFT: #929db4 3px double
+}
+.labelCtrl_styleBodyRight {
+	BORDER-RIGHT: #929db4 3px double
+}
+.labelCtrl_styleFootLeft {
+	BORDER-BOTTOM: #929db4 3px double; BORDER-LEFT: #929db4 3px double
+}
+.labelCtrl_styleFootMiddle {
+	BORDER-BOTTOM: #929db4 3px double
+}
+.labelCtrl_styleFootRight {
+	BORDER-BOTTOM: #929db4 3px double; BORDER-RIGHT: #929db4 3px double
+}
+A.MzTreeview {
+	PADDING-LEFT: 3px; FONT-SIZE: 9pt
+}
+A.groupsTree {
+	PADDING-LEFT: 3px; COLOR: black; FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+.A {
+	COLOR: #000000
+}
+A.white {
+	COLOR: #e2e8fc
+}
+A.red {
+	COLOR: #ff0000
+}
+.hint {
+	COLOR: #ff0000
+}
+#infozone {
+	WIDTH: 200px; HEIGHT: 20px; COLOR: #aa6; FONT-SIZE: 12px; OVERFLOW: hidden
+}
+#infozone DIV {
+	LINE-HEIGHT: 20px; WHITE-SPACE: nowrap; HEIGHT: 20px; OVERFLOW: hidden
+}
+A.infozone {
+	COLOR: #aa6
+}
+.A1:hover {
+	COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.A1:visited {
+	COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.A1:link {
+	COLOR: #000000; FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.A1 {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
